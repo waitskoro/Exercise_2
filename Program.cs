@@ -40,6 +40,13 @@
         {
             Console.WriteLine("Неизвестный оператор.");
             Console.WriteLine("aaaaaaaaaaaaa");
+<<<<<<< HEAD
+=======
+
+
+            Console.WriteLine("aaaaaaaaaaaaa");
+            Console.WriteLine("aaaaaaaaaaaaa");
+>>>>>>> ee2de5f188d825b460d33d8d6391e48685757a55
         }
     }
 }
