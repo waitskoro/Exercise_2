@@ -1,0 +1,15 @@
+C:\Users\crist\Cal\Cal\obj\Debug\net7.0\Cal.csproj.AssemblyReference.cache
+C:\Users\crist\Cal\Cal\obj\Debug\net7.0\Cal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\Cal\Cal\obj\Debug\net7.0\Cal.AssemblyInfoInputs.cache
+C:\Users\crist\Cal\Cal\obj\Debug\net7.0\Cal.AssemblyInfo.cs
+C:\Users\crist\Cal\Cal\obj\Debug\net7.0\Cal.csproj.CoreCompileInputs.cache
+C:\Users\crist\Cal\Cal\bin\Debug\net7.0\Cal.exe
+C:\Users\crist\Cal\Cal\bin\Debug\net7.0\Cal.deps.json
+C:\Users\crist\Cal\Cal\bin\Debug\net7.0\Cal.runtimeconfig.json
+C:\Users\crist\Cal\Cal\bin\Debug\net7.0\Cal.dll
+C:\Users\crist\Cal\Cal\bin\Debug\net7.0\Cal.pdb
+C:\Users\crist\Cal\Cal\obj\Debug\net7.0\Cal.dll
+C:\Users\crist\Cal\Cal\obj\Debug\net7.0\refint\Cal.dll
+C:\Users\crist\Cal\Cal\obj\Debug\net7.0\Cal.pdb
+C:\Users\crist\Cal\Cal\obj\Debug\net7.0\Cal.genruntimeconfig.cache
+C:\Users\crist\Cal\Cal\obj\Debug\net7.0\ref\Cal.dll
