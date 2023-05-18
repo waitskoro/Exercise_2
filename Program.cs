@@ -40,10 +40,6 @@
         {
             Console.WriteLine("Неизвестный оператор.");
             Console.WriteLine("aaaaaaaaaaaaa");
-            Console.WriteLine("aaaaaaaaaaaaa");
-            Console.WriteLine("aaaaaaaaaaaaa");
-            Console.WriteLine("aaaaaaaaaaaaa");
-            Console.WriteLine("aaaaaaaaaaaaa");
         }
     }
 }
